@@ -2,7 +2,7 @@
 
 ## Bio
 
-Group Engineering Manager for Microsoft Azure Container Registry and works on other container things. An Open Container Initiative Maintainer and container related projects.
+Group Engineering Manager for Microsoft Azure Container Registry. An Open Container Initiative Maintainer and contributor to other container related projects.
 
 ## Online
 
