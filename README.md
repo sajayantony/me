@@ -6,7 +6,10 @@ Group Engineering Manager for Microsoft Azure Container Registry. An Open Contai
 
 ## Online
 
-* <a rel="me" href="https://hachyderm.io/@sajay">hachyderm.io/@sajay</a>
+* [GitHub: @sajayantony](https://github.com/sajayantony/)
+* [Fediverse: hachyderm.io/@sajay](https://hachyderm.io/@sajay)
 * [Twitter: sajaya](https://twitter.com/sajaya)
+* [Keybase: sajaya](https://keybase.io/sajaya)
+* [LinkedIn: sajayantony](https://www.linkedin.com/in/sajayantony/)
 
 > Credit for the format of this page - https://github.com/vbatts
